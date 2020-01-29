@@ -1,2 +1,0 @@
-# ejemploFormReact
-Created with CodeSandbox
